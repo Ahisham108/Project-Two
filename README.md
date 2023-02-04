@@ -2,8 +2,7 @@
 # Udacity-Investigate-Medical Appointment No Shows-Dataset
 
 ## Project Overview
-In this project, we have to analyze a dataset and then communicate our findings about it.
-We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+This was the second project in Data Analyst Nanodegree from Udacity. In this project, I analyzed Medical Appointment No Shows Dataset and communicated my findings about it using Python libraries NumPy, pandas, Matplotlib, and seaborn. The dataset collects information from 110k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 
 What do I need to install?
 You will need an installation of Python, plus the following libraries:
